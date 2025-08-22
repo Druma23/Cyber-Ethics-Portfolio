@@ -1,4 +1,4 @@
-Ethics & Law Orientation (Week 1)
+<u> Ethics & Law Orientation (Week 1) <u/>
 
 My Ethical Lens: 
   I believe Feminist ethics fits me. This is because I care strongly about helping people and doing what is best for everyone. I believe everyone should have a voice and be included. Also that rules should not be biased against marginalized groups.
