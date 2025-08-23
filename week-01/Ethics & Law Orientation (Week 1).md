@@ -12,5 +12,6 @@
 
 ## Reflection: 
 
+
 ## AI Use Note (if used):
   I used SAGE to help me better understand the ethical frameworks and study the material. 
