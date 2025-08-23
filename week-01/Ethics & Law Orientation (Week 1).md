@@ -13,8 +13,9 @@ Use of the Hocking College John Light 357 computer lab is limited to authorized 
 [Reflection](https://drive.google.com/file/d/1avGxPcdH8SlL-8lDsX0-ox-9iPwobzUQ/view?usp=drive_link) 
 [AUP Snippet 
 ](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/week-01/CYBR2100_AUP_Snippet_W01_%5BDrumAlexandra%5D.md)
-## Reflection: 
 
+## Reflection: 
+  I would refine it further by explaining exactly the effects it would have on stakeholders. I would do this by making sure I explain explicitly what is at stake if you were to break the AUP and how it would also be unethical potentially even illegal depending on what exactly you did. A worst case scenario of who all could be impacted by breaking the AUP could also be given to help steer individuals away from breaking it. 
 
 ## AI Use Note (if used):
   I used SAGE to help me better understand the ethical frameworks and study the material. 
