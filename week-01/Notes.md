@@ -1,4 +1,4 @@
-# Chapter 2:
+# Chapter 2 & 3:
 
 ## Deontological Ethics:
 - Duty, Rules, Inherent Rightness of Actions
@@ -23,3 +23,12 @@
 ## Phenomenology:
 - focus on human-technology relations
 - Don Ihde
+
+## Ethical Concepts: 
+- Ethics: Systematized principles of right/wrong behavior
+- Morals: Personal beliefs on wrong vs. right behavior
+- Virtues: Positive character traits 
+- Integrity: acting ethically
+
+## Personal Lenses Examples: 
+- Education Culture, Religion, Gender Identity, Age, Life Experiences, Socioeconomic Level
