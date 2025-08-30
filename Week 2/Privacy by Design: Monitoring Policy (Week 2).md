@@ -6,7 +6,8 @@ A hospital will monitor activity on company-issued devices to protect operations
 The hospital will use purpose limitation and data minimization to collect the minimum data necessary. Also, it will restrict access to trained staff and will retain monitoring data for 30 days unless required longer for investigations or legal holds. Individuals may raise concerns or appeal via email to HR or the Cybersecurity team. Violations may result in loss of access and disciplinary action. The hospital policy follows HIPAA guidelines.
 
 
-## Justification (1 short paragraph): Name the principles you used and cite one policy/code or guideline.
+## Justification:
+Within my monitoring and retention clause, I used notice, proportionality, data minimization, and purpose limitation principles to form my clause. Both HIPAA and the American Recovery & Reinvestment Act came into play when making my clause. This is due to its monitoring of electronic health records, including health insurance, and protecting the patients' privacy rights along with the employees'.
 
 ## Evidence Links: Upload or link your in-class clause document and your Week 2 reflection PDF.
 [Monitoring and Retention Clause
