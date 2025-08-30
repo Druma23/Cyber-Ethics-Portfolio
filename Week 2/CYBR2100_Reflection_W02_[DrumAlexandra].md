@@ -8,10 +8,10 @@ I will use data minimization and purpose limitation to make sure I am only using
 ## Muddiest point (3–4 sentences):
 Can something be both explicit and implied consent at the same time? For example, if you clicked "I agree" to an EULA or ToS, that would be explicit consent. If you were to click "I agree" and within the agreement, you agreed to, it said "such as", would it also then be implied consent? 
 
-## Portfolio note (2–3 bullets): What you will add to your site and why it matters.
+## Portfolio note (2–3 bullets):
 -[ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link). This Clause shows that I understand the material given and that I am able to use my knowledge to make my own form of a monitoring and retention clause. 
 - [Privacy by Design](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%202/Privacy%20by%20Design%3A%20Monitoring%20Policy%20(Week%202).md)
-  This 
+  This helps me show I understand what I am learning and that I am able to find ways to improve on my work. 
 
 ## AI use (allowed with disclosure):
 I used SAGE to help me study the material. I also used SAGE to proofread and give me feedback on my Monitoring and Retention clause.
