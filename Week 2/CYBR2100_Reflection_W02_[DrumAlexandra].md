@@ -10,7 +10,8 @@ Can something be both explicit and implied consent at the same time? For example
 
 ## Portfolio note (2–3 bullets): What you will add to your site and why it matters.
 -[ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link). This Clause shows that I understand the material given and that I am able to use my knowledge to make my own form of a monitoring and retention clause. 
-
+- [Privacy by Design](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%202/Privacy%20by%20Design%3A%20Monitoring%20Policy%20(Week%202).md)
+  This 
 
 ## AI use (allowed with disclosure):
 I used SAGE to help me study the material. I also used SAGE to proofread and give me feedback on my Monitoring and Retention clause.
