@@ -9,7 +9,7 @@ I will use data minimization and purpose limitation to make sure I am only using
 Can something be both explicit and implied consent at the same time? For example, if you clicked "I agree" to an EULA or ToS, that would be explicit consent. If you were to click "I agree" and within the agreement, you agreed to, it said "such as", would it also then be implied consent? 
 
 ## Portfolio note (2–3 bullets):
--[ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link). This Clause shows that I understand the material given and that I am able to use my knowledge to make my own form of a monitoring and retention clause. 
+- [ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link). This Clause shows that I understand the material given and that I am able to use my knowledge to make my own form of a monitoring and retention clause. 
 - [Privacy by Design](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%202/Privacy%20by%20Design%3A%20Monitoring%20Policy%20(Week%202).md)
   This helps me show I understand what I am learning and that I am able to find ways to improve on my work. 
 
