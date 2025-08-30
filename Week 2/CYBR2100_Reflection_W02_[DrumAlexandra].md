@@ -12,4 +12,5 @@ I will use data minimization and purpose limitation to make sure I am only using
 -[ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link)
 
 
-## AI use (allowed with disclosure): If you used Sage/ChatGPT for brainstorming or proofreading, add an AI Use Note (tool, prompt, what you changed).
+## AI use (allowed with disclosure):
+I used SAGE to help me study the material. I also used SAGE to proofread and give me feedback on my Monitoring and Retention clause.
