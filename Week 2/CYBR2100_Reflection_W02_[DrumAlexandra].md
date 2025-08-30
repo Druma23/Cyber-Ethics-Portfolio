@@ -9,7 +9,7 @@ I will use data minimization and purpose limitation to make sure I am only using
 
 
 ## Portfolio note (2–3 bullets): What you will add to your site and why it matters.
--[ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link)
+-[ Monitoring and Retention Clause](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link). This Clause shows that I understand the material given and that I am able to use my knowledge to make my own form of a monitoring and retention clause. 
 
 
 ## AI use (allowed with disclosure):
