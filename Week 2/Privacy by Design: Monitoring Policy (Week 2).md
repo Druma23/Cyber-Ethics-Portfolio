@@ -1,4 +1,4 @@
-## Principles Summary (3–4 sentences):
+## Principles Summary:
 When someone is notified and has agreed to the terms/conditions, they've given their notice/consent. Data minimization is taking the least amount of data needed to complete a task, whereas purpose limitation makes sure data is only used for what it needs to be used for. Proportionality ties everything together by ensuring that one's privacy and the data collected are equal.  
 
 ## My Monitoring & Retention Clause:
@@ -9,8 +9,10 @@ The hospital will use purpose limitation and data minimization to collect the mi
 ## Justification (1 short paragraph): Name the principles you used and cite one policy/code or guideline.
 
 ## Evidence Links: Upload or link your in-class clause document and your Week 2 reflection PDF.
+[Monitoring and Retention Clause
+](https://drive.google.com/file/d/1Dhz9qMvzLghLPWbGtuH3yqaDqn5AaVWa/view?usp=drive_link)
 
 ## Reflection (3–4 sentences): What you would tighten (e.g., retention length, appeals) and impact on stakeholders.
 
 ## AI Use Note (if used):
-I used SAGE to
+I used SAGE to help me study the material. I also used SAGE to proofread and give me feedback on my Monitoring and Retention clause.
