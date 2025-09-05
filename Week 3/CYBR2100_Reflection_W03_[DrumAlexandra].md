@@ -13,5 +13,5 @@ A company is using dual licensing and is providing the same software under an op
 ## Portfolio note (2–3 bullets): 
 [“Open Source, Closed Eyes”](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%203/CYBR2100_CaseBrief_W03_%5BDrumAlexandra%5D.md) -
 “OSS & Disclosure Readiness” - 
-Notes - Helps keep me organized and able to easily go back to previous weeks if I need to remember something.
+[Notes](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%203/Notes.md) - Helps keep me organized and able to easily go back to previous weeks if I need to remember something.
 
