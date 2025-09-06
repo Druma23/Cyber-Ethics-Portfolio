@@ -11,7 +11,7 @@ All three licenses (MIT, GPL, Apache) require attribution to the authors. GPL li
 A company is using dual licensing and is providing the same software under an open-source license for free and a commercial license for profit. While they are making a profit and also providing it for free, is it an ethical decision? I understand the ability for the company to not only make money, but also provide flexibility is a great idea, my question is on how ethical it is. 
 
 ## Portfolio note (2–3 bullets): 
-- [“Open Source, Closed Eyes”](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%203/CYBR2100_CaseBrief_W03_%5BDrumAlexandra%5D.md) -
+- [“Open Source, Closed Eyes”](https://drive.google.com/file/d/1OXlibXZVPmsiwvcPNeWHBlyYD0y2HEz8/view?usp=drive_link) - Helped me understand the GPL license and how it is different from proprietary licenses. It also helped me prove I understand it.  
 - [“OSS & Disclosure Readiness”](https://github.com/Druma23/Cyber-Ethics-Portfolio/tree/main/Week%203) - 
 - [Notes](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%203/Notes.md) - Helps keep me organized and able to easily go back to previous weeks if I need to remember something.
 
