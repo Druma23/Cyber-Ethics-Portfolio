@@ -1,12 +1,12 @@
 ## Facts (≤10 bullets)
--GPL is copyleft meaning must use the same copyleft terms when distributing a derivative 
--If there is a GPL component ,the tool needs to be distributed as GPL 
--Can be a hurdle for companies using proprietary software 
+- GPL is copyleft meaning must use the same copyleft terms when distributing a derivative 
+- If there is a GPL component ,the tool needs to be distributed as GPL 
+- Can be a hurdle for companies using proprietary software 
 
 ## Issues (1–3 questions)
--Was this tool already shipped outside the organization? 
--Could the GPL-licensed code be removed easily from the proprietary software? 
--Was the proprietary software changed to be distributed under the GPL license before it was sent out? 
+- Was this tool already shipped outside the organization? 
+- Could the GPL-licensed code be removed easily from the proprietary software? 
+- Was the proprietary software changed to be distributed under the GPL license before it was sent out? 
 
 ## Ethical analysis (1 paragraph) 
 When looking at the scenario given I used a Feminist ethical framework lens to evaluate it. First off, the feminist ethical framework focuses on trust, helping others, and creating relationships. The scenario above does the opposite of that and in turn causes a few concerns. Since, the developer used a GPL-licensed code in proprietary software, they broke the legal terms and the GPL stance of the work staying open and free. This causes the scenario to be unethical and illegal due there being broken legal terms, along with breaking trust to users.
