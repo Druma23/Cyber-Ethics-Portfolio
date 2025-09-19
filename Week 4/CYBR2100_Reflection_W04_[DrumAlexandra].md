@@ -9,7 +9,7 @@ How can one ensure that redactions cannot be reverse engineered? For example, if
 
 ## Portfolio note (2–3 bullets):
 [Incident & Evidence Note](https://drive.google.com/file/d/1-BeHrfIRUP1auCXtkMng-dA-Pf2VrE7w/view?usp=drive_link) - This helps me prove that I understand the material and can put my knowledge of the material into practice
-Incident Ethics & Evidence Notes - This assignment helps me further understand the material given and helps me figure out ways to improve my work. 
+[Incident Ethics & Evidence Notes](https://github.com/Druma23/Cyber-Ethics-Portfolio/blob/main/Week%204/Incident%20Ethics%20%26%20Evidence%20Notes.md) - This assignment helps me further understand the material given and helps me figure out ways to improve my work. 
 
 ## AI use:
 I used SAGE to help me study the material. I also used SAGE to proofread and give me feedback on my What I Learned summary. 
