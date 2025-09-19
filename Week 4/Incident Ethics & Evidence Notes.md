@@ -17,7 +17,7 @@ Incident # HC-IR-1066
 ### • Evidence Captured: Item ID: EV 001  Phishing email (.eml; headers+body) — SHA-256: b2e70976a832a7a5c1ef979042a3cdac4cbea710dbcd0e69eb405f2d258c2346  Why: Shows DMARC alignment failure and shows SPF softfail
 Item ID: EV 002 IdP Logs — SHA-256: c52df5aa4ff5507ecf844a98edd42309d4266f41747bd09264b79f6047320769 Why: Shows password and MFA successes/failures for 15 minutes before and after unauthenticated email
 ### • Chain of Custody: Stored at Safe Location; automatically logged; transfer records kept.
-### • Redaction: Removed all other users information except for Sam Rivera;using Blur 
+### • Redaction: Removed all other users information except for Sam Rivera; using Blur method
 ### Next Step: Recommend Soft Containment- disable account, password reset, monitor for another 48 hours and handoff to Incident Manager John Smith.
 ## Integrity & Privacy Controls: 
 Hashing is a cryptographic identifier of files and helps the integrity of a file. It does this by helping to prevent any tampering with the file. An example of hashing is SHA-256. A good storage location for data would be in a secure location with access only being granted to individuals that have approved authorization. Along with this an understandable redaction policy needs to be in place. The redaction policy needs to include the removal or blurring of PII. The combination of the tools listed above help create a trustable incident report handling. All of this helps with the compliance of HIPAA and a feminist ethical framework by showing integrity with the data given. 
