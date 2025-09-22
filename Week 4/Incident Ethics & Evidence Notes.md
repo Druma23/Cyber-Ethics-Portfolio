@@ -1,10 +1,10 @@
 # My First-Hour Priorities: 
 ### Capture:
-Recording custody rows as you go. This ensures accuracy and is more efficient. 
-Minimal targeted evidence. Protects privacy, lowers the risk, and keeps evidence defensible. 
+- Recording custody rows as you go. This ensures accuracy and is more efficient. 
+- Minimal targeted evidence. Protects privacy, lowers the risk, and keeps evidence defensible. 
 ### Avoid:
-Writing accusations. Could hurt the Incident note, by not keeping it factual. 
-Using ongoing monitoring to try and prove something. It would take too long and distract you from finding what you need.
+- Writing accusations. Could hurt the Incident note, by not keeping it factual. 
+- Using ongoing monitoring to try and prove something. It would take too long and distract you from finding what you need.
 ## Incident & Evidence Note: 
 Incident # HC-IR-1066
 ### • Timestamp (UTC) & Context: 2025-09-11T13:45:00Z notified by student Sam Rivera that an unauthenticated email message was sent to him. Ticket created.
