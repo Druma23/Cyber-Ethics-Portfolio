@@ -8,8 +8,8 @@ Two ROE clauses I would consider essential are explicit scope & stop-test and da
 What are some indicators that an issue needs to be escalated to a higher priority or needs to be escalated to a higher team? Looking at risk factors and conditions can help point you in the right direction of what level of priority an issue needs to be handled at, but in the instance that you are unable to determine the severity of the issue. Is it better to escalate higher just in case or should you start low and escalate up from there? 
 
 ## Portfolio note (2–3 bullets): What you’ll add to your site and why it matters.
-ROE Outline -
-ROE Starter Pack - 
+- ROE Outline - This lets me prove that I know how to do a ROE Outline and read one.
+- ROE Starter Pack - Shows that I understand the material and I can find areas to improve on. 
 ## AI use: 
 I used SAGE to double check my reflection to make sure I did not miss any key points. I also used SAGE to help me study the material. 
 
