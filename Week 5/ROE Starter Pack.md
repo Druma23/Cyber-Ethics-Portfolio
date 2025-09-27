@@ -18,7 +18,7 @@ IT Ops + EOD + service impact
 
 ## Evidence Links: 
 - [ROE doc](https://drive.google.com/file/d/1oDYU1SrjM2aRuTtuNX7hMJQaWdb_bTQJ/view?usp=drive_link)
--[ Week 5 reflection](https://drive.google.com/file/d/1Z7gIjNhF4f0yBWYlG1Jwr8cYf6VgHzfl/view?usp=drive_link)
+- [ Week 5 reflection](https://drive.google.com/file/d/1Z7gIjNhF4f0yBWYlG1Jwr8cYf6VgHzfl/view?usp=drive_link)
 
 ## Reflection:
 A trade off I'd revisit is a broader coverage on my Scope on the ROE outline. With broader coverage, I could cover more threats and hopefully protect the system better. The downfall to this would be, you could cover more of the system, but it might not be as good of protection.
