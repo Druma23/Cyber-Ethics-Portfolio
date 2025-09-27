@@ -12,9 +12,9 @@ Purpose: Assess [Blackboard] to reduce risk without disrupting service.
 [Dean] authorizes [Incident Response & IT] to test [Input-validation checks] from [11 am UTC] to [11 pm UTC] under this ROE. Authorization may be paused or revoked at any time by [Data Owner]. Critical/high findings will be reported immediately to [Incident Response Lead & Security Lead]. All testing will follow this document’s boundaries, communications, and data-handling terms.
 
 ## Escalation Contacts: 
-Data Custodian + Critical 15 min - High 1 hour + safety risk, unapproved data access
-App Owner + EOD + any deviation from scope
-IT Ops + EOD + service impact
+- Data Custodian + Critical 15 min - High 1 hour + safety risk, unapproved data access
+- App Owner + EOD + any deviation from scope
+- IT Ops + EOD + service impact
 
 ## Evidence Links: 
 - [ROE doc](https://drive.google.com/file/d/1oDYU1SrjM2aRuTtuNX7hMJQaWdb_bTQJ/view?usp=drive_link)
