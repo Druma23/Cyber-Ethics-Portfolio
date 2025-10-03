@@ -1,4 +1,4 @@
-## Policy Snippe: 
+## Policy Snippet: 
 - Scope & purpose: AI phishing filter looks at emails to check for signs of phishing attempts and flag them before it hits the users inbox. If there is thought to be a phishing email it will flag it. A few ways the filter detects suspicious emails is by analyzing the structure, content and tone of the emails. The tool used is NLP. 
 - Transparency & notice: If the phishing filter flags an email the user will see the email go into a spam folder or there will be a banner at the top of it deeming it as suspicious while stating why it might be a phishing email. The user can then decide themselves whether or not the email is in fact a threat and request reclassification if not. They can make a request by sending an email to the cybersecurity team or the company ticketing system. 
 - Human-in-the-loop: The on site cybersecurity team can step in when the AI phishing filter cannot decide whether or not an email is a threat, it is a higher risk case, or if the user reports an email as a phishing email. 
