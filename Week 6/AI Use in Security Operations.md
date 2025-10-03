@@ -1,1 +1,21 @@
+## Policy Snippe: 
+- Scope & purpose: AI phishing filter looks at emails to check for signs of phishing attempts and flag them before it hits the users inbox. If there is thought to be a phishing email it will flag it. A few ways the filter detects suspicious emails is by analyzing the structure, content and tone of the emails. The tool used is NLP. 
+- Transparency & notice: If the phishing filter flags an email the user will see the email go into a spam folder or there will be a banner at the top of it deeming it as suspicious while stating why it might be a phishing email. The user can then decide themselves whether or not the email is in fact a threat and request reclassification if not. They can make a request by sending an email to the cybersecurity team or the company ticketing system. 
+- Human-in-the-loop: The on site cybersecurity team can step in when the AI phishing filter cannot decide whether or not an email is a threat, it is a higher risk case, or if the user reports an email as a phishing email. 
+- Appeals path: When a user believes a real email was flagged as phishing then they will request a review by contacting the cybersecurity team. The team tries to have a response in less than 24 hours. Some situations may require more time and periodic updates on the situation will be sent out while waiting for mitigation to be complete.
+- Data handling: The AI phishing filter uses only the minimal amount of data necessary. Any personal data is not held onto long-term, just until the threat is fixed and any PII is redacted when audits take place. 
+- Metrics & review cadence: Metrics the AI phishing filter tracks include false positives and false negatives (FP/FN) and Mean Time To Respond (MTTR). These help improve accuracy, efficiency and decrease potential harm. Audits and log analysis are completed monthly along with a review of any user feedback. The AI phishing filter is updated every 90 days to enhance its accuracy and stop any bias that may have occurred. 
+
+## Controls & Metrics:
+- Data Handling & Retention: minimum necessary data obtained and every override is logged. The percentage of overrides are logged. A review of logs is done every month.
+- Human-In-The-Loop: high impact cases are given to the security team and can override the decisions. Percentage of the cases are reviewed by the security team. Also, maintains logs for auditing and gets reviewed periodically. For example: Every month. 
+- Transparency: Gives reason for flag and lets users know the reason why. A percentage of the flagged emails are given. Continuous monitoring is done and is spot checked monthly. 
+## Justification:
+Data handling and retention, Human-in-the-loop, and Transparency all fit the risk outlined in Chapter 11. The ebook Ethics in Technology by Ed Weber mentions “Fairness and validity of these systems”. All of the controls mentioned above help control the risk of bias and factuality. Data handling uses the least amount of data needed to keep PII safe and let users know they can trust the system. Human-in-the-loop lets users know they can rely on actual humans to step in when needed to make sure there is no bias happening and override decisions when needed. Finally, Transparency enforces user trust by flagging suspicious emails and giving users the reason for the flag. All of these help keep AI systems ethical. 
+## Evidence Links:
+Weber, E. (2025). Ethics In Technology (1st ed.). St Charles Community College. [https://hocking.blackboard.com/ultra/courses/_11760_1/outline/edit/document/_897522_1?courseId=_11760_1&view=content&state=view](https://hocking.blackboard.com/ultra/courses/_11760_1/outline/edit/document/_897522_1?courseId=_11760_1&view=content&state=view) 
+## Reflection: 
+A trade off I’d revisit next time would be divulging deeper into transparency. For example, if one is too transparent it could result in more vulnerabilities. Transparency can improve trust which is crucial in keeping everything ethical, but it could also let attackers have access to the system's limitations and vulnerabilities. 
+## AI Use Note: 
+I used SAGE to help me study the material. I also used SAGE to proofread my reflection to ensure I did not miss any steps.
 
