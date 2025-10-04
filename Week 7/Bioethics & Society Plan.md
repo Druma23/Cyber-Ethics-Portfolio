@@ -10,7 +10,8 @@ Those who benefit most from the wearable BCI would be the places that have more 
 
 ## Justification:
 The Ethics In Technology ebook by Ed Weber, discusses how new technology, for example, BCIs, need to follow principles like “autonomy”, “consent,” “justice”, and beneficence/non-maleficence. This makes it so individuals know the risks, benefits, and have control over their data. The same ebook by Ed Weber discussed societal impacts such as “adoption curve” and “conversion costs”. The cost of using new technology and learning the technology can be harder for groups that do not have the money or the tools needed to use/learn it in underprivileged places. Following the principles above and following good privacy protections, one can ensure that these advancements are helping individuals and trying to cease inequality. 
-- Evidence Links: 
+
+## Evidence Links: 
 Weber, E. (2025). Ethics In Technology (1st ed.). St Charles Community College. https://hocking.blackboard.com/ultra/courses/_11760_1/outline/edit/document/_897522_1?courseId=_11760_1&view=content&state=view 
 
 ## Reflection:
